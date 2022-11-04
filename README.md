@@ -18,7 +18,7 @@ meu projeto no evento exclusivo e gratuito, promovido pela Rocketseat para ensin
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="./github/preview.png" width="100%">
+  <img alt="calendario da copa" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,15 +28,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- [iMask](https://imask.js.org)
 
 ## 💻 Projeto
 
-Um Calendário dos jogos da copa
+Um Calendário dos jogos da copa. Você pode acessar através [DESSE LINK](https://nlw-copa-amber.vercel.app/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/vTH12vPif7UHxsRJyWCPqs/Calend%C3%A1rio-de-Jogos-(Community)?node-id=305%3A1749). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
