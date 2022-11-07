@@ -11,6 +11,43 @@
   --bg: url('./assets/bg-yellow.svg');
 }
 
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header .buttons{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+}
+
+.buttons button{
+  width: 100px;
+  height: 30px;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.buttons button:hover{
+  transform: scale(110%);
+  cursor: pointer;
+}
+
+#btn-blue{
+  background-color: #338af3;
+}
+#btn-green{
+  background-color: #047C3F;
+}
+#btn-yellow{
+  background-color: #F7DD43;
+}
+
+
+
 body.blue{
   --bg-primary: #202024;
   --card-color-primary: #338af3;
